@@ -27,4 +27,5 @@ siteTime()
 
 console.log("\n %c   主页| 三生三世安安稳稳,婷婷玉立花落花开. | https://www.zytllt.cn/", "color:#fff;background: #006eff;padding:5px;border-radius: 10px;");
 console.log("\n %c   博客| 三生三世安安稳稳,婷婷玉立花落花开. | https://blog.zytllt.cn/", "color:#fff;background: #006eff;padding:5px;border-radius: 10px;");
+console.log("\n %c   云盘| 三生三世安安稳稳,婷婷玉立花落花开. | https://cloud.zytllt.cn/", "color:#fff;background: #006eff;padding:5px;border-radius: 10px;");
 console.log("%c\n   ","font-size:150px;background:url('https://cdn.jsdelivr.net/gh/anwen-anyi/imgAnwen/images/ico.png') no-repeat 0 0");
