@@ -1,0 +1,8 @@
+comment.php
+footer.php
+head.php
+hero.php
+navbar.php
+sidebar.php
+style.php
+test.txt
